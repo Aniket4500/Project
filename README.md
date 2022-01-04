@@ -1,4 +1,4 @@
-# Project Title:- Global Superstore Orders 2016 Dasaset
+# Project Title:- Global Superstore Orders 2016 Dataset
 # Description:-
 **Global Superstore Orders is dataset which has around 51290 values. It is a customer centric data set, Which has the data of all the orders that have been placed through different vendors and markets, starting from the year 2011 till 2015. There are no missing and undefined value in a dataset.**
 
